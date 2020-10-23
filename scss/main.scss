@@ -1,0 +1,27 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    }
+    
+    html {
+        font-size: 16px;
+    }
+    
+    .voodoo-text {
+        text-align: center;
+        background: red;
+        
+    }
+    
+    .header-container img {
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: space-around;
+    }
+    
+    .rad-1 {
+        background-color: royalblue;
+    }
+    
+    
