@@ -1,14 +1,32 @@
 {
+<<<<<<< HEAD
   "name": "inlamning_responsiv",
+=======
+  "name": "Wie20s",
+>>>>>>> 6b628443bb379419dfd3760a05730d0fb2a91a7f
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
   "scripts": {
     "start": "node-sass sass/main.scss style.css -w"
   },
+<<<<<<< HEAD
   "keywords": [],
   "author": "",
   "license": "ISC",
+=======
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Rakibmedieinstitutet/wie20s.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Rakibmedieinstitutet/wie20s/issues"
+  },
+  "homepage": "https://github.com/Rakibmedieinstitutet/wie20s#readme",
+>>>>>>> 6b628443bb379419dfd3760a05730d0fb2a91a7f
   "dependencies": {
     "node-sass": "^4.14.1"
   }
